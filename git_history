@@ -1,0 +1,36 @@
+   389	10:47	hg git
+   390	10:47	git update
+   392	10:47	git --help
+   393	10:47	git -
+   664	14:44	git add network.py
+   666	14:45	git commit -m "fixed network for only one interferogram"
+   667	15:53	git clone https://github.com/my_user_name/MintPy.git
+   668	15:53	git clone httpgit clone https://github.com/sanghoonhong/MintPy.git
+   670	21:08	git clone https://github.com/sanghoonhong/MintPy.git
+   676	21:18	git checkout -b shong
+   677	21:20	more .git
+   680	21:25	cp ../MintPy_oldgit add ./mintpy/utils/network.py
+   681	21:25	git add ./mintpy/utils/network.py
+   682	21:26	git commit -a
+   683	21:26	git commit -m "fixed get_date12_list for only one interferogram pair"
+   684	21:26	git commit -m "fixed get_date12_list for only one interferograMMA_BIN/cc_wave /scratch/insarlab/sxh733/NansenT000TsxHhA/PROCESS/IFGRAM_NansenT000TsxHhA_161205-161216_0011_-0054/161205-161216_4rlks.int /scratch/insarlab/sxh733/NansenT000TsxHhA/PROCESS/IFGRAM_NansenT000TsxHhA_161205-161216_0011_-0054/161205_4rlks.amp /scratch/insarlab/sxh733/NansenT000TsxHhA/PROCESS/IFGRAM_NansenT000TsxHhA_161205-161216_0011_-0054/161216_4rlks.amp /scratch/insarlab/sxh733/NansenT000TsxHhA/PROCESS/IFGRAM_NansenT000TsxHhA_161205-161216_0011_-0054/161205-161216_4rlks.cor 2106 5 5
+   685	21:26	git commit -m "fixed get_date12_list for only one interferograMMA_BIN/cc_wave /scratchgit commit -m "fixed get_date12_list for only one interferograMMA_BIN/cc_wave /scratch/insarlab/sxh733/NansenT000TsxHhA/PROCESS/IFGRAM_NansenT000TsxHhA_161205-161216_0011_-0054/161205-161216_4rlks.int /scratch/insarlab/sxh733/NansenT000TsxHhA/PROCESS/IFGRAM_NansenT000TsxHhA_161205-161216_0011_-0054/161205_4rlks.amp /scratch/insarlab/sxh733/NansenT000TsxHhA/PROCESS/IFGRAM_NansenT000TsxHhA_161205-161216_0011_-0054/161216_4rlks.amp /scratch/insarlab/sxh733/NansenT000TsxHhA/PROCESS/IFGRAM_NansenT000TsxHhA_161205-161216_0011_-0054/161205-161216_4rlks.cor 2106 5 5
+   687	21:46	git rebase -i HEAD~5
+   688	21:47	git status
+   788	10:37	display summary_HelheimT16git push
+   789	10:38	git add down2slc_Tsx_orbit.pl
+   790	10:38	git c#+1563327391
+   791	10:38	git commit -m "add to extract pol type from folder name"
+   792	10:39	git push
+   794	10:40	git clone https://github.com/my_user_name/MintPy.gi#+1563173572
+   799	10:40	cd .git
+   804	10:40	cd HelheimT163TsxVcp /scratch/insarlab/swjung/orig_HelheimT163git clone https://github.com/my_user_name/MintPy.gi#+1563173572
+   943	7:42	git remote add upstream https://github.com/insarlab/MintPy.git
+   945	7:42	git checkout master
+   946	7:42	git fetch upstream
+   949	7:44	git pull -f
+   950	7:44	git rebase upstream/master
+   952	7:45	git diff
+   953	7:46	git pull
+   958	7:56	git push -f
+   959	7:58	hg git > git_history
